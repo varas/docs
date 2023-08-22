@@ -16,10 +16,10 @@ It’s free to use for all developers and software providers, with Sigstore’s 
 ## How to use Sigstore
 
 * I want to [Quick Start](/signing/quickstart/)
-* I want to [sign a blob](signing/signing_with_blobs/)
-* I want to [sign a container](signing/signing_with_containers/)
-* I want to [Sign Git commits with Gitsign](/signing/gitsign/)
-* I want to [verify entries with Cosign](/verifying/verify/)
+* I want to [sign a blob](/docs/signing/signing_with_blobs/)
+* I want to [sign a container](/docs/signing/signing_with_containers/)
+* I want to [Sign Git commits with Gitsign](/docs/signing/gitsign/)
+* I want to [verify entries with Cosign](/docs/verifying/verify/)
 
 ## How Sigstore works
 
